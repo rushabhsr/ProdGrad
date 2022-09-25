@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "convert-csv-to-json": "^1.3.3"
+  },
+  "name": "prograd",
+  "description": "Prograd Engineering Interview Task",
+  "version": "1.0.0",
+  "main": "taskOne.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rushabhsr/ProdGrad.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rushabhsr/ProdGrad/issues"
+  },
+  "homepage": "https://github.com/rushabhsr/ProdGrad#readme"
+}
